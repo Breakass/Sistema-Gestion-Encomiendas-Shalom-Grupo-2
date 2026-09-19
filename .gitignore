@@ -1,0 +1,20 @@
+# ---- NetBeans / Ant: carpetas generadas por la compilacion ----
+# Se regeneran solas cada vez que compilas (Build/Clean and Build).
+# No deben subirse al repositorio.
+build/
+dist/
+
+# Configuracion privada de NetBeans: rutas y datos especificos
+# de la maquina de cada integrante del equipo. Cada quien tiene
+# la suya distinta, por eso NO se comparte.
+nbproject/private/
+
+# ---- Compilados sueltos (por si compilas fuera de NetBeans) ----
+*.class
+
+# ---- Archivos temporales del sistema operativo ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
